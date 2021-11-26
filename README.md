@@ -1,6 +1,6 @@
-# Partituras
+# Partituras do Louvor da Bereana
 
-Partituras em PDF revisadas:
+## Partituras em PDF revisadas
 
 [Ajuntamento (Vencedores por Cristo)](https://joaoroccella.github.io/partituras/ajuntamento.pdf)<br>
 [Marcharemos (Vencedores popr Cristo)](https://joaoroccella.github.io/partituras/marcharemos.pdf)<br>
@@ -16,9 +16,11 @@ Partituras em PDF revisadas:
 [Santo, Santo, Santo (CC 9)](https://joaoroccella.github.io/partituras/santo-santo-santo.pdf)<br>
 [Trabalho Cristão (CC 422)](https://joaoroccella.github.io/partituras/trabalho-cristao.pdf)<br>
 
-**Legenda**
+### Legenda
 
-CC: Hinário Cantor Cristão<br>
-NC: Hinário Novo Cântico<br>
-HCC: Hinário para o Culto Cristão<br>
-VM: Hinário Voz de Melodia<br>
+**CC**: Hinário Cantor Cristão<br>
+**NC**: Hinário Novo Cântico<br>
+**HCC**: Hinário para o Culto Cristão<br>
+**VM**: Hinário Voz de Melodia<br>
+
+###### Equipe de Louvor da IB Bereana - 2021
