@@ -8,7 +8,7 @@ Partituras em PDF revisadas:
 [Renovação (NC 229)](https://joaoroccella.github.io/partituras/renovacao.pdf)<br>
 [Te Louvarei / Perto Quero Estar (Kelly Carpenter)](https://joaoroccella.github.io/partituras/te-louvarei.pdf)<br>
 [Aleluia (CC 198)](https://joaoroccella.github.io/partituras/aleluia.pdf)<br>
-[Ao Pé da Cruz (CC 289)](https://joaoroccella.github.io/ao-pe-da-cruz.pdf)<br>
+[Ao Pé da Cruz (CC 289)](https://joaoroccella.github.io/partituras/ao-pe-da-cruz.pdf)<br>
 [Cantarei Teu Amor Para Sempre](https://joaoroccella.github.io/partituras/cantarei-teu-amor-para-sempre.pdf)<br>
 [Descansarei / Cobre-me](https://joaoroccella.github.io/partituras/descansarei-cobre-me.pdf)<br>
 [Desde os Confins da Terra](https://joaoroccella.github.io/partituras/desde-os-confins-da-terra.pdf)<br>
