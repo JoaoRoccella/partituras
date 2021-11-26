@@ -11,7 +11,7 @@ Partituras em PDF revisadas:
 [Ao Pé da Cruz (CC 289)](https://joaoroccella.github.io/ao-pe-da-cruz.pdf)<br>
 [Cantarei Teu Amor Para Sempre](https://joaoroccella.github.io/partituras/cantarei-teu-amor-para-sempre.pdf)<br>
 [Descansarei / Cobre-me](https://joaoroccella.github.io/partituras/descansarei-cobre-me.pdf)<br>
-[Desde os Confins da Terra (Kelly Carpenter)](https://joaoroccella.github.io/partituras/desde-os-confins-da-terra.pdf)<br>
+[Desde os Confins da Terra](https://joaoroccella.github.io/partituras/desde-os-confins-da-terra.pdf)<br>
 [É de Coração](https://joaoroccella.github.io/partituras/e-de-coracao.pdf)<br>
 [Santo, Santo, Santo (CC 9)](https://joaoroccella.github.io/partituras/santo-santo-santo.pdf)<br>
 [Trabalho Cristão (CC 422)](https://joaoroccella.github.io/partituras/trabalho-cristao.pdf)<br>
