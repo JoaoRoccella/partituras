@@ -17,7 +17,8 @@ Partituras em PDF revisadas:
 [Trabalho Cristão (CC 422)](https://joaoroccella.github.io/partituras/trabalho-cristao.pdf)<br>
 
 **Legenda**
-CC: Hinário Cantor Cristão
-NC: Hinário Novo Cântico
-HCC: Hinário para o Culto Cristão
-VM: Hinário Voz de Melodia
+
+CC: Hinário Cantor Cristão<br>
+NC: Hinário Novo Cântico<br>
+HCC: Hinário para o Culto Cristão<br>
+VM: Hinário Voz de Melodia<br>
