@@ -15,6 +15,7 @@
 [É de Coração](https://joaoroccella.github.io/partituras/e-de-coracao.pdf)<br>
 [Santo, Santo, Santo (CC 9)](https://joaoroccella.github.io/partituras/santo-santo-santo.pdf)<br>
 [Trabalho Cristão (CC 422)](https://joaoroccella.github.io/partituras/trabalho-cristao.pdf)<br>
+[Cântico da Colheita](https://joaoroccella.github.io/partituras/cantico-da-colheita.pdf)<br>
 
 ### Legenda
 
